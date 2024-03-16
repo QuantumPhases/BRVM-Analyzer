@@ -1,1 +1,9 @@
+
+# ignore main
 main
+
+# ignore Venv 
+venv/
+
+# ignore DS_Store
+.DS_Store/
